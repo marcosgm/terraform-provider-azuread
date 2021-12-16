@@ -1,4 +1,6 @@
 <a href="https://terraform.io">
+
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/d839fdfe-670a-4bdf-9381-41aad994dc5a.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/terraform-provider-azuread)  
     <img src=".github/tf.png" alt="Terraform logo" title="Terraform" align="left" height="50" />
 </a>
 
